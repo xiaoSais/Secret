@@ -19,7 +19,9 @@ module.exports = {
           '/blog/document/infiniate',
           '/blog/document/YUIDoc',
           '/blog/document/mini',
-          '/blog/document/fenxi'
+          '/blog/document/fenxi',
+          '/blog/document/this',
+          '/blog/document/grid'
         ]
       },
       {
@@ -30,7 +32,24 @@ module.exports = {
           '/blog/article/sh',
           '/blog/article/nj'
         ]
+      }, 
+      {
+        title: 'Express',
+        children: [
+          '/blog/express/ex',
+          '/blog/express/middle',
+          '/blog/express/in',
+          '/blog/express/design'
+        ]
       },
+      {
+        title: 'Node.js',
+        children: [
+          '/blog/Node/process',
+          '/blog/Node/memory',
+          '/blog/Node/sync'
+        ]
+      }
      ]
   }
 }

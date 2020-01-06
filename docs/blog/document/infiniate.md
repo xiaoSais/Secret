@@ -1,4 +1,4 @@
-# 你真的了解无限加载组件吗？
+# 二、你真的了解无限加载组件吗？
 
 ## 总结
 vue-infinite-loading（推荐使用） > vue-infinite-scroll > vue-scroller

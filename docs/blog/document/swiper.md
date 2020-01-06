@@ -1,4 +1,4 @@
-# swiper插件的坑，你了解多少
+# 一、swiper插件的坑，你了解多少
 
 ## 引入和基本用法
 引用之前需要安装vue-awesome-swiper组件，然后像引用其他组件一样引入即可。其中swiper类似于滑动对象的容器，swiper-slide为滑动的单个item。
